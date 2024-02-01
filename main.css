@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+}
+
+.card{
+  margin: 10px;
+}
+
+#app{
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.btnAllWizards{
+  background-color: grey;
+  color: white;
+  width: 300px;
+  height: 40px;
+}
+
+.btnGryffindor{
+background-color: red;
+color: white;
+width: 300px;
+height: 40px;
+}
+
+.btnRavenclaw{
+  background-color: blue;
+  color: white;
+  width: 300px;
+  height: 40px;
+}
+
+.btnSlytherin{
+  background-color: green;
+  color: white;
+  width: 300px;
+  height: 40px;
+}
+
+.btnHufflepuff{
+  background-color: rgb(192, 192, 26);
+  color: white;
+  width: 300px;
+  height: 40px;
+}
+
+.danger-btn{
+  background-color: red;
+  color: white;
+}
+
+.submit-btn{
+  background-color: blue;
+  color: white;
+}
